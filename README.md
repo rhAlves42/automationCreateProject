@@ -29,9 +29,14 @@ install all the dependencies with
 
 `pip install -r requirements.txt`
 
+and last but not least, create a .env file and set the `USERNAME` and `PASSWORD` of your github account
+```
+nano .env
+USERNAME=YOUR_USERNAME
+PASSWORD=YOUR_PASS
+```
 
-
-### Setting up 
+### :wrench: Setting up bash
 
 if you ubuntu or mac, open your terminal with and type:
 
